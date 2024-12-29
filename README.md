@@ -50,7 +50,8 @@ The user is prompted to input their answer (1-4).
 Immediate feedback is provided for each answer (correct or incorrect).
 At the end of the quiz, the user's score is displayed.
 
-```Example Output
+## Example Output
+```text
 Who developed the Java programming language?
 1 : Dennis Ritchie
 2 : James Gosling
